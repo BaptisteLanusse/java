@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/lanussebaptiste/Documents/tests/Developpement/java/.metadata/.plugins/org.eclipse.jdt.core
